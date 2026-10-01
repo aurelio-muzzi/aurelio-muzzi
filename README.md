@@ -32,22 +32,6 @@ Para conhecer mais sobre minha trajetória profissional, acesse meu LinkedIn: [A
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -72,11 +56,11 @@ Para conhecer mais sobre minha trajetória profissional, acesse meu LinkedIn: [A
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="Vue.js" 
+    title="Vue.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
 />
 <img 
     align="left" 
@@ -109,14 +93,6 @@ Para conhecer mais sobre minha trajetória profissional, acesse meu LinkedIn: [A
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
 />
 <img 
     align="left" 
@@ -173,6 +149,14 @@ Para conhecer mais sobre minha trajetória profissional, acesse meu LinkedIn: [A
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
